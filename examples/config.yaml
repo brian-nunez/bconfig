@@ -1,0 +1,7 @@
+server:
+  addr: ":8080"
+  timeout: "5s"
+database:
+  host: "localhost"
+  port: 5432
+debug: false
